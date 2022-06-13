@@ -1,0 +1,7 @@
+{
+  "id": 1,
+  "title": "Todo from json",
+  "complete": 1,
+  "content": "Todo content from json",
+  "color": 4294967295
+}
